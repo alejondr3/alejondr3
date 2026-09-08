@@ -1,5 +1,5 @@
 ### 🛠️ Mis Lenguajes de Programación
 
-![Python](https://shields.io)
-![C](https://shields.io)
-![C++](https://shields.io)
+<img src="https://jsdelivr.net" width="40" height="40" alt="Python" /> &nbsp;
+<img src="https://jsdelivr.net" width="40" height="40" alt="C" /> &nbsp;
+<img src="https://jsdelivr.net" width="40" height="40" alt="C++" />
