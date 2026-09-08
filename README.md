@@ -1,4 +1,5 @@
-###  Mis Lenguajes de Programación
-<p align="left">
-  <img src="https://skillicons.dev" alt="Mis Lenguajes" />
-</p>
+### 🛠️ Mis Lenguajes de Programación
+
+![Python](https://shields.io)
+![C](https://shields.io)
+![C++](https://shields.io)
