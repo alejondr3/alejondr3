@@ -20,8 +20,8 @@
 <a id="expediente"></a>
 
 <p align="center">
-  <img src="assets/visual-v3/operator.png" width="49%" alt="Expediente 01: NIGHT OPERATOR. Alias alejondr3. Nodo 001. Identidad desconocida. Origen: terminal / after hours." />
-  <img src="assets/visual-v3/loadout.png" width="49%" alt="Arsenal 02: Python — rituales rápidos; C — memoria manual; C++ — el vacío ahora tiene templates." />
+  <img src="assets/animated-v4/operator.gif" width="49%" alt="Expediente 01: NIGHT OPERATOR. Alias alejondr3. Nodo 001. Identidad desconocida. Origen: terminal / after hours." />
+  <img src="assets/animated-v4/loadout.gif" width="49%" alt="Arsenal 02: Python — rituales rápidos; C — memoria manual; C++ — el vacío ahora tiene templates." />
 </p>
 
 <p align="center">
@@ -36,13 +36,19 @@
 ### 03 / recovered artifacts
 
 <p align="center">
-  <a href="https://github.com/alejondr3/100-ejercicios-practicos-sobre-vectores"><img src="assets/visual-v3/vectors.png" width="49%" alt="VEC-01 / Vectores. Ejercicios con vectores. Abrir repositorio." /></a>
-  <a href="https://github.com/alejondr3/fundamentos-programacion-laboratorios"><img src="assets/visual-v3/fundamentals.png" width="49%" alt="LAB-02 / Fundamentos. Laboratorios de programación. Abrir repositorio." /></a>
+  <a href="https://github.com/alejondr3/100-ejercicios-practicos-sobre-vectores"><img src="assets/animated-v4/vectors.gif" width="49%" alt="VEC-01 / Vectores. Ejercicios con vectores. Abrir repositorio." /></a>
+  <a href="https://github.com/alejondr3/fundamentos-programacion-laboratorios"><img src="assets/animated-v4/fundamentals.gif" width="49%" alt="LAB-02 / Fundamentos. Laboratorios de programación. Abrir repositorio." /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alejondr3/practico-segundo-parcial-cpp"><img src="assets/visual-v3/cpp.png" width="49%" alt="CPP-03 / C++: parcial II. Práctico del segundo parcial. Abrir repositorio." /></a>
-  <a href="https://github.com/alejondr3/lengua-de-se-as-proyecto-Universidad"><img src="assets/visual-v3/signs.png" width="49%" alt="SGN-04 / Lengua de señas. Beta de un proyecto universitario. Abrir repositorio." /></a>
+  <a href="https://github.com/alejondr3/practico-segundo-parcial-cpp"><img src="assets/animated-v4/cpp.gif" width="49%" alt="CPP-03 / C++: parcial II. Práctico del segundo parcial. Abrir repositorio." /></a>
+  <a href="https://github.com/alejondr3/lengua-de-se-as-proyecto-Universidad"><img src="assets/animated-v4/signs.gif" width="49%" alt="SGN-04 / Lengua de señas. Beta de un proyecto universitario. Abrir repositorio." /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="assets/animated-v4/transmission.gif" width="100%" alt="Transmisión animada: rastreando el fantasma del repositorio. Presencia detectada: alejondr3. La sesión persiste." />
 </p>
 
 <br />
@@ -76,5 +82,5 @@ Se aceptan sugerencias, teorías y explicaciones de por qué ayer sí compilaba.
 <br />
 
 <p align="center">
-  <img src="assets/visual-v3/footer.png" width="100%" alt="Fin de transmisión. La sesión nunca se cerró. El compilador conoce mi nombre real. STILL COMPILING." />
+  <img src="assets/animated-v4/footer.gif" width="100%" alt="Fin de transmisión. La sesión nunca se cerró. El compilador conoce mi nombre real. STILL COMPILING." />
 </p>
