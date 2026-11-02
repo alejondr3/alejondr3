@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="alejondr3 — night operator. No signal. Still compiling." />
+  <img src="assets/visual-v3/cover.png" width="100%" alt="alejondr3 — Unregistered Entity. Portada manga en blanco y negro: mirada entre sombras, grano de fotocopia y NO SIGNAL. STILL HERE." />
+  <img src="assets/visual-v3/signal.gif" width="100%" alt="LINK ESTABLISHED — AFTER HOURS / 001. Franja de señal animada." />
 </p>
 
 <p align="center">
@@ -7,79 +8,58 @@
 </p>
 
 <p align="center">
-  <a href="#01--operator-file">expediente</a>
+  <a href="#expediente">expediente</a>
   &nbsp; / &nbsp;
-  <a href="#02--loadout">arsenal</a>
+  <a href="#archivos-recuperados">archivos recuperados</a>
   &nbsp; / &nbsp;
-  <a href="#03--recovered-artifacts">archivos recuperados</a>
+  <a href="https://github.com/alejondr3?tab=repositories">todos los repositorios</a>
 </p>
 
 <br />
 
-```text
-[ CONNECTION ESTABLISHED ]
+<a id="expediente"></a>
 
-alias ............. alejondr3
-civilian identity . Alejandro Mendoza
-class ............. nocturnal compiler
-alignment ......... chaotic curious
-current objective . convertir cafeína en instrucciones
-known weakness .... un último cambio antes de dormir
+<p align="center">
+  <img src="assets/visual-v3/operator.png" width="49%" alt="Expediente 01: NIGHT OPERATOR. Alias alejondr3. Nodo 001. Identidad desconocida. Origen: terminal / after hours." />
+  <img src="assets/visual-v3/loadout.png" width="49%" alt="Arsenal 02: Python — rituales rápidos; C — memoria manual; C++ — el vacío ahora tiene templates." />
+</p>
 
-> el compilador conoce mi nombre real.
-```
+<p align="center">
+  De día, proyectos de la U. De noche, conversaciones con una terminal que responde en errores.<br />
+  <b>No tengo un arco de entrenamiento. Tengo historial de commits.</b>
+</p>
 
-### 01 / operator file
+<br />
 
-De día, proyectos de la U.  
-De noche, conversaciones con una terminal que responde en errores.
+<a id="archivos-recuperados"></a>
+
+### 03 / recovered artifacts
+
+<p align="center">
+  <a href="https://github.com/alejondr3/100-ejercicios-practicos-sobre-vectores"><img src="assets/visual-v3/vectors.png" width="49%" alt="VEC-01 / Vectores. Ejercicios con vectores. Abrir repositorio." /></a>
+  <a href="https://github.com/alejondr3/fundamentos-programacion-laboratorios"><img src="assets/visual-v3/fundamentals.png" width="49%" alt="LAB-02 / Fundamentos. Laboratorios de programación. Abrir repositorio." /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alejondr3/practico-segundo-parcial-cpp"><img src="assets/visual-v3/cpp.png" width="49%" alt="CPP-03 / C++: parcial II. Práctico del segundo parcial. Abrir repositorio." /></a>
+  <a href="https://github.com/alejondr3/lengua-de-se-as-proyecto-Universidad"><img src="assets/visual-v3/signs.png" width="49%" alt="SGN-04 / Lengua de señas. Beta de un proyecto universitario. Abrir repositorio." /></a>
+</p>
+
+<br />
+
+<details>
+<summary><samp>[ RESTRICTED / acceder al expediente completo ]</samp></summary>
+
+**Identidad civil:** Alejandro Mendoza.  
+**Objetivo actual:** aprender programación, practicar y construir proyectos propios.  
+**Debilidad conocida:** un último cambio antes de dormir.
 
 Habito entre un `segmentation fault` y la idea de que esta vez sí va a funcionar.
 Cada repositorio es un registro de expedición. Algunos contienen respuestas.
 Otros explican por qué no se debe tocar ese puntero.
 
-> No tengo un arco de entrenamiento. Tengo historial de commits.
-
-<br />
-
-### 02 / loadout
-
-<p>
-  <img src="assets/languages/python.svg" width="136" height="44" alt="Python" />
-  <img src="assets/languages/c.svg" width="136" height="44" alt="C" />
-  <img src="assets/languages/cpp.svg" width="136" height="44" alt="C++" />
-</p>
-
-```text
-PYTHON  / invocaciones rápidas. el ritual empieza con import.
-C       / contacto directo con el vacío. trae tu propia memoria.
-C++     / el vacío ahora tiene templates.
-```
-
-<br />
-
-### 03 / recovered artifacts
-
-| ID | Archivo | Informe de campo |
-| :--- | :--- | :--- |
-| `VEC-01` | **[Vectores](https://github.com/alejondr3/100-ejercicios-practicos-sobre-vectores)** | Ejercicios con vectores. El índice empieza en cero; la paciencia también. |
-| `LAB-02` | **[Fundamentos](https://github.com/alejondr3/fundamentos-programacion-laboratorios)** | Laboratorios de programación. Los registros del arco de origen. |
-| `CPP-03` | **[Práctico C++](https://github.com/alejondr3/practico-segundo-parcial-cpp)** | Segundo parcial. Encuentro con el jefe de zona. |
-| `SGN-04` | **[Lengua de señas](https://github.com/alejondr3/lengua-de-se-as-proyecto-Universidad)** | Beta universitaria preservada. Primera señal enviada desde este nodo. |
-
-<p align="right">
-  <a href="https://github.com/alejondr3?tab=repositories"><samp>abrir el archivo completo →</samp></a>
-</p>
-
-<br />
-
-### 04 / incoming transmission
-
-Si encontraste un bug, dejaste de ser visitante. Ahora eres parte del lore.  
+Si encontraste un bug, dejaste de ser visitante. Ahora eres parte del lore.
 Se aceptan sugerencias, teorías y explicaciones de por qué ayer sí compilaba.
-
-<details>
-<summary><samp>[ acceder al registro de la última sesión ]</samp></summary>
 
 ```text
 03:07  iniciando "un cambio pequeño"
@@ -93,9 +73,8 @@ Se aceptan sugerencias, teorías y explicaciones de por qué ayer sí compilaba.
 
 </details>
 
----
+<br />
 
 <p align="center">
-  <samp>NO SIGNAL. STILL COMPILING.</samp><br />
-  <sub>fin de la transmisión / inicio del siguiente intento</sub>
+  <img src="assets/visual-v3/footer.png" width="100%" alt="Fin de transmisión. La sesión nunca se cerró. El compilador conoce mi nombre real. STILL COMPILING." />
 </p>
