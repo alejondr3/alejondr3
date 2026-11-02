@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">alejondr3 — código en proceso</title>
+<title id="title">alejondr3 — night operator</title>
 <desc id="desc">Banner en blanco y negro inspirado en viñetas de manga, con trama de puntos, líneas diagonales y detalles pixelados.</desc>
 <defs>
  <pattern id="dots" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff"/></pattern>
@@ -19,11 +19,11 @@
 </g>
 <path d="M900 20L800 340" fill="none" stroke="#fff" stroke-width="3"/>
 <path d="M50 52h10v10H50zM66 52h10v10H66zM82 52h10v10H82z" fill="#fff"/>
-<text x="112" y="62" fill="#ddd" font-family="monospace" font-size="13" letter-spacing="3">ARCHIVO PERSONAL / 001</text>
+<text x="112" y="62" fill="#ddd" font-family="monospace" font-size="13" letter-spacing="3">UNREGISTERED SIGNAL / NODE 001</text>
 <path d="M50 88H760" stroke="#fff" stroke-opacity=".3"/>
 <text x="45" y="202" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="106" font-weight="900" letter-spacing="-5">alejondr3</text>
 <path d="M52 230H110" stroke="#fff" stroke-width="4"/>
-<text x="128" y="237" fill="#eee" font-family="monospace" font-size="20" letter-spacing="3">CÓDIGO EN PROCESO.</text>
-<text x="50" y="309" fill="#aaa" font-family="monospace" font-size="13" letter-spacing="2">PRUEBO. ROMPO. APRENDO. REPITO.</text>
+<text x="128" y="237" fill="#eee" font-family="monospace" font-size="20" letter-spacing="3">NIGHT OPERATOR.</text>
+<text x="50" y="309" fill="#aaa" font-family="monospace" font-size="13" letter-spacing="2">NO SIGNAL. STILL COMPILING.</text>
 <path d="M730 286h12v12h12v12h-12v12h-12v-12h-12v-12h12z" fill="#fff"/>
 </svg>
