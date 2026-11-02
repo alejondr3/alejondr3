@@ -1,44 +1,52 @@
-<div align="center">
-
-# Hola, soy Alejandro 👋
-
-### Aprendiendo programación, un proyecto a la vez.
-
-Python · C · C++
-
-[Explora mis repositorios](https://github.com/alejondr3?tab=repositories)
-
-</div>
-
----
-
-## Sobre mí
-
-Soy Alejandro Mendoza. En este perfil comparto ejercicios de programación, prácticas y proyectos universitarios: una forma de documentar lo que voy aprendiendo y seguir mejorando con cada reto.
-
-## 🛠️ Lenguajes que uso
-
-<p>
-  <img src="assets/languages/python.svg" width="128" height="48" alt="Python" title="Python" /> &nbsp;&nbsp;
-  <img src="assets/languages/c.svg" width="128" height="48" alt="C" title="C" /> &nbsp;&nbsp;
-  <img src="assets/languages/cpp.svg" width="128" height="48" alt="C++" title="C++" />
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="alejondr3 — código en proceso. Pruebo. Rompo. Aprendo. Repito." />
 </p>
 
-## 📂 Explora mi trabajo
+<p align="center">
+  <b>Alejandro Mendoza</b><br />
+  Programación, proyectos de la U y cosas que voy aprendiendo.
+</p>
 
-| Repositorio | Qué encontrarás |
-| --- | --- |
-| [Ejercicios sobre vectores](https://github.com/alejondr3/100-ejercicios-practicos-sobre-vectores) | Práctica de programación con vectores. |
-| [Fundamentos de programación](https://github.com/alejondr3/fundamentos-programacion-laboratorios) | Laboratorios para trabajar las bases de la programación. |
-| [Práctico de C++](https://github.com/alejondr3/practico-segundo-parcial-cpp) | Ejercicios del segundo parcial. |
-| [Proyecto de lengua de señas](https://github.com/alejondr3/lengua-de-se-as-proyecto-Universidad) | Proyecto universitario en versión beta, conservado como referencia. |
+<p align="center">
+  <a href="https://github.com/alejondr3?tab=repositories">repositorios</a>
+  &nbsp; / &nbsp;
+  <a href="#02--proyectos">proyectos</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/alejondr3/lengua-de-se-as-proyecto-Universidad">primer proyecto</a>
+</p>
 
-## 🌱 Aprender y compartir
+<br />
 
-Este perfil también es una bitácora de mi aprendizaje. Si revisas alguno de mis proyectos y tienes una sugerencia, será bienvenida.
+### 01 / herramientas
+
+<p>
+  <img src="assets/languages/python.svg" width="136" height="44" alt="Python" />
+  <img src="assets/languages/c.svg" width="136" height="44" alt="C" />
+  <img src="assets/languages/cpp.svg" width="136" height="44" alt="C++" />
+</p>
+
+Aprendo haciendo: ejercicios, laboratorios y proyectos. Este perfil es el registro de ese proceso.
+
+<br />
+
+### 02 / proyectos
+
+| | Proyecto | Dentro |
+| :--- | :--- | :--- |
+| `01` | **[Vectores](https://github.com/alejondr3/100-ejercicios-practicos-sobre-vectores)** | Ejercicios para practicar con vectores. |
+| `02` | **[Fundamentos](https://github.com/alejondr3/fundamentos-programacion-laboratorios)** | Laboratorios y bases de programación. |
+| `03` | **[Práctico C++](https://github.com/alejondr3/practico-segundo-parcial-cpp)** | Ejercicios del segundo parcial. |
+| `04` | **[Lengua de señas](https://github.com/alejondr3/lengua-de-se-as-proyecto-Universidad)** | Beta de un proyecto universitario, conservada como referencia. |
+
+<br />
+
+### 03 / siguiente intento
+
+Seguir practicando, entender mejor el código y construir cosas propias.<br />
+¿Viste algo que se puede mejorar? Las sugerencias son bienvenidas.
 
 ---
 
-<div align="center">
-  Gracias por pasar por aquí.
-</div>
+<p align="center">
+  <samp>si compila, todavía hay preguntas.</samp>
+</p>

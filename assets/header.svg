@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">alejondr3 — código en proceso</title>
+<desc id="desc">Banner en blanco y negro inspirado en viñetas de manga, con trama de puntos, líneas diagonales y detalles pixelados.</desc>
+<defs>
+ <pattern id="dots" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff"/></pattern>
+ <pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(30)"><path d="M0 0V8" stroke="#fff" stroke-width="1"/></pattern>
+ <clipPath id="panel"><path d="M900 20H1180V340H800Z"/></clipPath>
+</defs>
+<path fill="#080808" d="M0 0h1200v360H0z"/>
+<path d="M20 20H1180V340H20Z" fill="none" stroke="#fff" stroke-width="2"/>
+<path d="M28 28H1172V332H28Z" fill="none" stroke="#fff" stroke-opacity=".25"/>
+<path d="M900 20H1180V340H800Z" fill="#161616"/>
+<g clip-path="url(#panel)">
+ <path d="M780 0H1200V360H780Z" fill="url(#dots)" opacity=".6"/>
+ <path d="M1040 0L800 360M1080 0L840 360M1120 0L880 360M1160 0L920 360M1200 0L960 360M1240 0L1000 360" stroke="#fff" stroke-width="2" opacity=".35"/>
+ <path d="M1080 20L904 340H942L1120 20Z" fill="#fff"/>
+ <path d="M1148 20L972 340H986L1162 20Z" fill="#fff"/>
+ <path d="M1000 20L824 340H842L1018 20Z" fill="url(#hatch)"/>
+</g>
+<path d="M900 20L800 340" fill="none" stroke="#fff" stroke-width="3"/>
+<path d="M50 52h10v10H50zM66 52h10v10H66zM82 52h10v10H82z" fill="#fff"/>
+<text x="112" y="62" fill="#ddd" font-family="monospace" font-size="13" letter-spacing="3">ARCHIVO PERSONAL / 001</text>
+<path d="M50 88H760" stroke="#fff" stroke-opacity=".3"/>
+<text x="45" y="202" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="106" font-weight="900" letter-spacing="-5">alejondr3</text>
+<path d="M52 230H110" stroke="#fff" stroke-width="4"/>
+<text x="128" y="237" fill="#eee" font-family="monospace" font-size="20" letter-spacing="3">CÓDIGO EN PROCESO.</text>
+<text x="50" y="309" fill="#aaa" font-family="monospace" font-size="13" letter-spacing="2">PRUEBO. ROMPO. APRENDO. REPITO.</text>
+<path d="M730 286h12v12h12v12h-12v12h-12v-12h-12v-12h12z" fill="#fff"/>
+</svg>
