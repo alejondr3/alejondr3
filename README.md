@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/animated-v4/cover-blink.gif" width="100%" alt="alejondr3 — Unregistered Entity. Portada manga animada en blanco y negro: la chica parpadea entre sombras, grano de fotocopia y NO SIGNAL. STILL HERE." />
+  <img src="assets/animated-v4/cover-blink-smooth.gif" width="100%" alt="alejondr3 — Unregistered Entity. Portada manga animada en blanco y negro: la chica parpadea entre sombras, grano de fotocopia y NO SIGNAL. STILL HERE." />
   <img src="assets/visual-v3/signal.gif" width="100%" alt="LINK ESTABLISHED — AFTER HOURS / 001. Franja de señal animada." />
 </p>
 
