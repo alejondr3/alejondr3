@@ -19,9 +19,9 @@ Soy Alejandro Mendoza. En este perfil comparto ejercicios de programación, prá
 ## 🛠️ Lenguajes que uso
 
 <p>
-  <img src="python.png" width="48" height="48" alt="Python" title="Python" /> &nbsp;&nbsp;
-  <img src="c.png" width="48" height="48" alt="C" title="C" /> &nbsp;&nbsp;
-  <img src="cpp.png" width="48" height="48" alt="C++" title="C++" />
+  <img src="assets/languages/python.svg" width="128" height="48" alt="Python" title="Python" /> &nbsp;&nbsp;
+  <img src="assets/languages/c.svg" width="128" height="48" alt="C" title="C" /> &nbsp;&nbsp;
+  <img src="assets/languages/cpp.svg" width="128" height="48" alt="C++" title="C++" />
 </p>
 
 ## 📂 Explora mi trabajo
