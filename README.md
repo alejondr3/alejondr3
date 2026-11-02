@@ -48,8 +48,10 @@
 <br />
 
 <p align="center">
-  <img src="assets/animated-v4/transmission.gif" width="100%" alt="Transmisión animada: rastreando el fantasma del repositorio. Presencia detectada: alejondr3. La sesión persiste." />
+  <a href="https://www.youtube.com/watch?v=slH3r1sHSZQ&amp;list=RDslH3r1sHSZQ&amp;start_radio=1"><img src="assets/music/all-i-need.gif" width="100%" alt="Live Transmission: All I Need — Radiohead, From the Basement. Tarjeta con ecualizador animado y QR escaneable. Pulsa para escuchar en YouTube." /></a>
 </p>
+
+<p align="center"><sub><a href="https://www.youtube.com/watch?v=slH3r1sHSZQ">Escuchar en YouTube</a> · animación visual independiente del audio</sub></p>
 
 <br />
 
